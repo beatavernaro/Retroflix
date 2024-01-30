@@ -1,0 +1,246 @@
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\appsettings.json
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Locadora02.exe
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Locadora02.deps.json
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Locadora02.runtimeconfig.json
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Locadora02.dll
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Locadora02.pdb
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.csproj.AssemblyReference.cache
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.AssemblyInfoInputs.cache
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.AssemblyInfo.cs
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.Locadora02.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.build.Locadora02.props
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Locadora02.props
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Locadora02.props
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\scopedcss\bundle\Locadora02.styles.css
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.csproj.CopyComplete
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.dll
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\refint\Locadora02.dll
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.pdb
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.genruntimeconfig.cache
+C:\Users\Daniele\Documents\estagio\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\ref\Locadora02.dll
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\appsettings.json
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Locadora02.exe
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Locadora02.deps.json
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Locadora02.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Locadora02.dll
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Locadora02.pdb
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Humanizer.dll
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.Locadora02.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.build.Locadora02.props
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Locadora02.props
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Locadora02.props
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\scopedcss\bundle\Locadora02.styles.css
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.csproj.CopyComplete
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.dll
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\refint\Locadora02.dll
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.pdb
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\Locadora02.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\estagio\Projetos\Projetos\Locadora\Locadora02\Locadora02\obj\Debug\net6.0\ref\Locadora02.dll
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\appsettings.json
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\Locadora02.exe
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\Locadora02.deps.json
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\Locadora02.runtimeconfig.json
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\Locadora02.dll
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\Locadora02.pdb
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\Locadora02.csproj.AssemblyReference.cache
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\Locadora02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\Locadora02.AssemblyInfoInputs.cache
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\Locadora02.AssemblyInfo.cs
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\Locadora02.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\Locadora02.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\Locadora02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.Locadora02.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.build.Locadora02.props
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Locadora02.props
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Locadora02.props
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\scopedcss\bundle\Locadora02.styles.css
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\Locadora02.csproj.CopyComplete
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\Locadora02.dll
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\refint\Locadora02.dll
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\Locadora02.pdb
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\Locadora02.genruntimeconfig.cache
+C:\Users\Daniele\Downloads\Locadora-main\Locadora-main\Locadora02\obj\Debug\net6.0\ref\Locadora02.dll
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\appsettings.json
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\Locadora02.exe
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\Locadora02.deps.json
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\Locadora02.runtimeconfig.json
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\Locadora02.dll
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\Locadora02.pdb
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\Locadora02.csproj.AssemblyReference.cache
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\Locadora02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\Locadora02.AssemblyInfoInputs.cache
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\Locadora02.AssemblyInfo.cs
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\Locadora02.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\Locadora02.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\Locadora02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.Locadora02.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.build.Locadora02.props
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Locadora02.props
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Locadora02.props
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\scopedcss\bundle\Locadora02.styles.css
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\Locadora02.csproj.CopyComplete
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\Locadora02.dll
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\refint\Locadora02.dll
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\Locadora02.pdb
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\Locadora02.genruntimeconfig.cache
+C:\Users\Daniele\Documents\estagio\Projetos\LocadoraTeste\Locadora02\obj\Debug\net6.0\ref\Locadora02.dll
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\appsettings.json
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\Locadora02.exe
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\Locadora02.deps.json
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\Locadora02.runtimeconfig.json
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\Locadora02.dll
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\Locadora02.pdb
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\Locadora02.csproj.AssemblyReference.cache
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\Locadora02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\Locadora02.AssemblyInfoInputs.cache
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\Locadora02.AssemblyInfo.cs
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\Locadora02.csproj.CoreCompileInputs.cache
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\Locadora02.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\Locadora02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.Locadora02.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.build.Locadora02.props
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Locadora02.props
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Locadora02.props
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\scopedcss\bundle\Locadora02.styles.css
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\Locadora02.csproj.CopyComplete
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\Locadora02.dll
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\refint\Locadora02.dll
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\Locadora02.pdb
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\Locadora02.genruntimeconfig.cache
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\obj\Debug\net6.0\ref\Locadora02.dll
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\package-lock.json
+C:\Users\Beatriz - Tafner\Documents\Code\API\Locadora2\Locadora02\bin\Debug\net6.0\package.json
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\package-lock.json
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\package.json
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\Locadora02.exe
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\Locadora02.deps.json
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\Locadora02.runtimeconfig.json
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\Locadora02.dll
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\Locadora02.pdb
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\Locadora02.csproj.AssemblyReference.cache
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\Locadora02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\Locadora02.AssemblyInfoInputs.cache
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\Locadora02.AssemblyInfo.cs
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\Locadora02.csproj.CoreCompileInputs.cache
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\Locadora02.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\Locadora02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\Locadora02.sourcelink.json
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.Locadora02.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.build.Locadora02.props
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Locadora02.props
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Locadora02.props
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\scopedcss\bundle\Locadora02.styles.css
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\Locadora02.csproj.CopyComplete
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\Locadora02.dll
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\refint\Locadora02.dll
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\Locadora02.pdb
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\Locadora02.genruntimeconfig.cache
+C:\Users\Bea\Documents\Codigos\ProjetosPessoais\RetroFlix - Angular  .NET\API_RetroFlix\Locadora02\obj\Debug\net6.0\ref\Locadora02.dll

@@ -1,0 +1,15 @@
+<mat-card class="cardSize">
+    <mat-card-header>
+        <mat-card-title>{{ filme.nomeFilme }}</mat-card-title>
+        <mat-card-subtitle class="cardPadding">{{ filme.diretor }}</mat-card-subtitle>
+    </mat-card-header>
+    <div class="cardImg cardPadding" [style.backgroundImage]="'url(' + filme.imagem + ')'"></div>
+    <mat-card-content>
+        <mat-card-subtitle class="cardPadding">{{ filme.duracao }} min | {{ nomeGenero }}</mat-card-subtitle>
+        <p class="mat-body"> {{ filme.sinopse }} </p>
+    </mat-card-content>
+    <mat-card-actions class="card-action-button">
+        <button mat-button color="primary" routerLink="/editarFilme/{{filme.id}}">EDITAR</button>
+        <button mat-button color="primary" routerLink="/excluirFilme/{{filme.id}}">EXCLUIR</button>
+    </mat-card-actions>
+</mat-card>

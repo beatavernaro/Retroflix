@@ -1,0 +1,46 @@
+<section class="container">
+    <header>
+        <h2>Adicione um novo filme:</h2>
+    </header>
+
+    <form [formGroup]="form">
+        <mat-form-field class="formbg">
+            <mat-label>Título do filme</mat-label>
+            <input matInput formControlName="nomeFilme">
+        </mat-form-field>
+
+        <mat-form-field class="formbg">
+            <mat-label>Diretor</mat-label>
+            <input matInput formControlName="diretor">
+        </mat-form-field>
+
+        <mat-form-field class="formbg">
+            <mat-label>Duração</mat-label>
+            <input matInput formControlName="duracao">
+        </mat-form-field>
+
+        <mat-form-field class="formbg">
+            <mat-label>Gênero</mat-label>
+            <mat-select formControlName="genero">
+                <mat-option *ngFor="let genero of listaGenero" [value]="genero"> {{genero.nome}} </mat-option>
+            </mat-select>
+        </mat-form-field>
+
+        <mat-form-field class="formbg">
+            <mat-label>Imagem</mat-label>
+            <input matInput formControlName="imagem">
+        </mat-form-field>
+
+        <mat-form-field class="formbg">
+            <mat-label>Sinopse</mat-label>
+            <textarea matInput formControlName="sinopse"></textarea>
+        </mat-form-field>
+
+    </form>
+    <div class="alinha-botao">
+        <button mat-raised-button color="accent" type="button" class="botao"
+            routerLink="/listarFilmes" (click)="onSubmit()">Adicionar</button>
+        <button mat-raised-button color="accent" type="button" class="botao"
+            routerLink="/listarFilmes" (click)="onCancel()">Cancelar</button>
+    </div>
+</section>

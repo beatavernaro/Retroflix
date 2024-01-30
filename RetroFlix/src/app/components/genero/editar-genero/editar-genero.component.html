@@ -1,0 +1,16 @@
+<section class="container">
+
+    <form [formGroup]="form">
+        <mat-form-field class="formbg">
+            <mat-label>Gênero</mat-label>
+            <input [(ngModel)]="genero.nome" matInput formControlName="nome">
+        </mat-form-field>
+
+    </form>
+    <div class="alinha-botao">
+        <button mat-raised-button color="accent" type="button" class="botao" routerLink="/listarGeneros"
+            (click)="onEdit()">Editar</button>
+        <button mat-raised-button color="accent" type="button" class="botao"
+            routerLink="/listarGeneros">Cancelar</button>
+    </div>
+</section>

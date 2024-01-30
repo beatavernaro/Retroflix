@@ -1,0 +1,43 @@
+<section class="container">
+    <header>
+        <h2>Editar filme:</h2>
+    </header>
+    <form [formGroup]="form">
+        <mat-form-field class="formbg">
+            <mat-label>Título do filme</mat-label>
+            <input [(ngModel)]="filme.nomeFilme" matInput formControlName="nomeFilme">
+        </mat-form-field>
+
+        <mat-form-field class="formbg">
+            <mat-label>Diretor</mat-label>
+            <input [(ngModel)]="filme.diretor" matInput formControlName="diretor">
+        </mat-form-field>
+
+        <mat-form-field class="formbg">
+            <mat-label>Duração</mat-label>
+            <input [(ngModel)]="filme.duracao" matInput formControlName="duracao">
+        </mat-form-field>
+
+        <mat-form-field class="formbg">
+            <mat-label>Gênero</mat-label>
+            <mat-select [(ngModel)]="filme.genero" formControlName="genero">
+                <mat-option *ngFor="let genero of listaGenero" [value]="genero"> {{genero.nome}} </mat-option>
+            </mat-select>
+        </mat-form-field>
+
+        <mat-form-field class="formbg">
+          <mat-label>Imagem</mat-label>
+          <input [(ngModel)]="filme.imagem" matInput formControlName="imagem">
+      </mat-form-field>
+
+        <mat-form-field class="formbg">
+            <mat-label>Sinopse</mat-label>
+            <textarea [(ngModel)]="filme.sinopse" matInput formControlName="sinopse"></textarea>
+        </mat-form-field>
+    </form>
+    <div class="alinha-botao">
+        <button mat-raised-button color="accent" type="button" class="botao" (click)="onEdit()">Confirmar</button>
+        <button mat-raised-button color="accent" type="button" class="botao"
+            routerLink="/listarFilmes">Cancelar</button>
+    </div>
+</section>

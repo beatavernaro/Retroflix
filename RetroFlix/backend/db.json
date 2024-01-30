@@ -1,0 +1,90 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "O Senhor dos aneis - A Sociedade do Anel",
+      "diretor": "Peter Jackson",
+      "duracao": 178,
+      "genero": {
+        "id": 2,
+        "nome": "Aventura"
+      },
+      "sinopse": "Em uma terra fantástica e única, um hobbit recebe de presente de seu tio um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso, o hobbit Frodo tem um caminho árduo pela frente, onde encontra perigo, medo e seres bizarros.",
+      "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/92/91/32/20224832.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "O Senhor dos aneis - As Duas Torres",
+      "diretor": "Peter Jackson",
+      "duracao": 179,
+      "genero": {
+        "id": 2,
+        "nome": "Aventura"
+      },
+      "sinopse": "O Senhor dos Anéis: As Duas Torres é um filme de aventura e fantasia, segunda parte da adaptação cinematográfica da trilogia literária de J. R. R. Tolkien.",
+      "imagem": "https://br.web.img2.acsta.net/medias/nmedia/18/92/34/89/20194741.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "O Senhor dos aneis - O Retorno do Rei",
+      "diretor": "Peter Jackson",
+      "duracao": 179,
+      "genero": {
+        "id": 2,
+        "nome": "Aventura"
+      },
+      "sinopse": "O confronto final entre as forças do bem e do mal que lutam pelo controle do futuro da Terra Média se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na intenção de ajudar a resistência.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/0d/EsdlaIII.jpg"
+    },
+    {
+      "titulo": "Harry Potter e a Pedra Filosofal",
+      "diretor": "David Heyman",
+      "duracao": "152",
+      "genero": {
+        "id": 2,
+        "nome": "Aventura"
+      },
+      "sinopse": "Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/1/1d/Harry_Potter_Pedra_Filosofal_2001.jpg/250px-Harry_Potter_Pedra_Filosofal_2001.jpg",
+      "id": 4
+    },
+    {
+      "titulo": "Harry Potter e a Câmara Secreta",
+      "diretor": "Chris Columbus",
+      "duracao": "162",
+      "genero": {
+        "id": 2,
+        "nome": "Aventura"
+      },
+      "sinopse": "Após as sofríveis férias na casa dos tios, Harry Potter se prepara para voltar a Hogwarts e começar seu segundo ano na escola de bruxos.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/33/Chamber_of_Secrets.jpg",
+      "id": 5
+    }
+  ],
+  "generos": [
+    {
+      "id": 2,
+      "nome": "Aventura"
+    },
+    {
+      "nome": "Romance",
+      "id": 4
+    },
+    {
+      "nome": "Drama",
+      "id": 5
+    },
+    {
+      "nome": "Ficção Cientifica",
+      "id": 7
+    },
+    {
+      "nome": "Terror",
+      "id": 8
+    },
+    {
+      "nome": "Ação",
+      "id": 9
+    }
+  ]
+}

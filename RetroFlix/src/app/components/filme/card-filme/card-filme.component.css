@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.cardSize {
+    width: 300px;
+    min-height: 520px;
+    display: flex;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.cardImg {
+    min-width: 300px;
+    height: 350px;
+    background-size:cover;
+    
+}
+
+.cardPadding{
+    margin-bottom: 10px;
+}
+
+p{
+    text-align: justify;
+}
+
+.card-action-button{
+    display: flex;
+    gap: 20px;
+}

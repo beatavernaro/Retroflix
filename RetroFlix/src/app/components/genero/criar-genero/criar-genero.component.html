@@ -1,0 +1,18 @@
+<section class="container">
+    <header>
+        <h2>Adicione um novo genero:</h2>
+    </header>
+    <form [formGroup]="form">
+        <mat-form-field class="formbg">
+            <mat-label>Gênero</mat-label>
+            <input matInput formControlName="nome">
+        </mat-form-field> 
+
+    </form>
+    <div class="alinha-botao">
+        <button mat-raised-button color="accent" type="button" class="botao"
+            routerLink="/listarGeneros" (click)="onSubmit()">Adicionar</button>
+        <button mat-raised-button color="accent" type="button" class="botao"
+            routerLink="/listarGeneros">Cancelar</button>
+    </div>
+</section>
