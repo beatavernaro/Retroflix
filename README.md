@@ -7,8 +7,11 @@ Projeto criado para testes de habilidades em Angular e .NET no estágio.
 ___
 ### Tópicos
 :small_blue_diamond: [Descrição do projeto](#descrição)
+
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
+
 :small_blue_diamond: [Como rodar](#como-rodar)
+
 :small_blue_diamond: [Desenvolvedores](#desenvolvedores)
 ___
 ### Descrição
@@ -45,5 +48,6 @@ ___
 
 ___
 ### Desenvolvedores
-| [<img src="https://avatars.githubusercontent.com/u/94928593?v=4" width=115><br><sub>Beatriz Tavernaro </sub>](https://github.com/Diana-ops) |  [<img src="https://avatars.githubusercontent.com/u/131900862?v=4" width=115><br><sub>João Alencar</sub>](https://github.com/Diana-ops) | 
-| :---: | :---: | :---:
+
+| [<img src="https://avatars.githubusercontent.com/u/94928593?v=4" width=115><br><sub>Beatriz Tavernaro </sub>](https://github.com/beatavernaro)| [<img src="https://avatars.githubusercontent.com/u/131900862?v=4" width=115><br><sub>João Alencar</sub>](https://github.com/JoaoAlencar3294) |
+|----|----|
